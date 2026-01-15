@@ -27,7 +27,7 @@
     const bubble = document.getElementById('bubble');
     bubble.style.display = 'block';
     
-    // Automatically hide after 5 seconds
+    // Automatically hide after 5 hours
     setTimeout(() => {
       bubble.style.display = 'none';
     }, 5000);
